@@ -1,0 +1,37 @@
+﻿1. What goal will your website be designed to achieve?
+The goal of my website will be to show information about different national parks to users. Users will be able to search for a national park either by name or by state. Each individual national park page will contain information about that park, things to do there, related articles, images, alerts, and more. People will be easily transferred to the correct site to book entry tickets or campsites. Users will be able to login and create an account that will keep track of visited parks and parks they wish to go to.
+
+
+2. What kind of users will visit your site? In other words, what is the demographic of your users?
+The site will be available for anyone interested in national parks, which ranges from young adolescents to seniors. I hope to design it to appeal to someone (any age) that has an interest in national parks.
+
+
+3. What data do you plan on using? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain.
+I will be using the National Park Service API. Right now, I am certain that I will be using activities, alerts, articles, parks, places, things to do, and visitor centers. 
+
+
+4. In brief, outline your approach to creating your project (knowing that you may not know everything in advance and that these details might change later). Answer questions like the ones below, but feel free to add more information: 
+
+
+a. What does your database schema look like? 
+(In progress)
+
+
+b. What kinds of issues might you run into with your API? 
+Nothing serious that I can foresee at this time. I am a bit worried that there is a lot of information available and I don’t want to confuse myself during the project. 
+
+
+c. Is there any sensitive information you need to secure? 
+My API key and user’s login information (email and password).
+
+
+d. What functionality will your app include? 
+Registering a user and logging them in/out, creating a favorite’s list for parks to go to, creating a checklist for parks that have been visited, more to be thought up. 
+
+
+e. What will the user flow look like?
+Users will be able to browse the site without registering but will need to register to add parks to lists. Users will be able to search for parks based on states or the national park name, and they will be presented with information about that particular park. Users will also be able to edit their user profile. 
+
+
+f. What features make your site more than CRUD? Do you have any stretch goals?
+(Would like to come back to this after meeting with my mentor).
